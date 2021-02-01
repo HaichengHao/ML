@@ -3,27 +3,22 @@
 #### Description
 Record every step I take in machine learning
 
-#### Software Architecture
-Software architecture description
+#### Introduction
 
-#### Installation
+在这里面我会记录一下我在机器学习中一步一步的路程，我一定会慢慢努力的哈哈
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+吴恩达机器学习课程练习
+1. ex1 Linear Regression
+2. ex2 Logistic Regression
+3. ex3 Multi-class Classfication and Neural Networks
+4. 
 
-#### Instructions
+机器学习实战项目
+1. 泰坦尼克号生存预测 Titantic
+2. 波士顿房价预测 Boston Housing
+3.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265?spm=1001.2014.3001.5343),一定不会让你们失望的拉
 
 
 #### Gitee Feature
