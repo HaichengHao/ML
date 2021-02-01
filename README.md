@@ -8,14 +8,14 @@ Record every step I take in machine learning
 在这里面我会记录一下我在机器学习中一步一步的路程，我一定会慢慢努力的哈哈
 
 吴恩达机器学习课程练习
-1. ex1 Linear Regression [详细过程及讲解](https://blog.csdn.net/weixin_45508265/article/details/112690593)
-2. ex2 Logistic Regression [详细过程及讲解](https://blog.csdn.net/weixin_45508265/article/details/113062255)
-3. ex3 Multi-class Classfication and Neural Networks [详细过程及讲解](https://blog.csdn.net/weixin_45508265/article/details/113504698)
+1. [ex1 Linear Regression](https://blog.csdn.net/weixin_45508265/article/details/112690593)
+2. [ex2 Logistic Regression](https://blog.csdn.net/weixin_45508265/article/details/113062255)
+3. [ex3 Multi-class Classfication and Neural Networks](https://blog.csdn.net/weixin_45508265/article/details/113504698)
 4. 
 
 机器学习实战项目
-1. 泰坦尼克号生存预测 Titantic [详细过程及讲解](https://blog.csdn.net/weixin_45508265/article/details/112703541)
-2. 波士顿房价预测 Boston Housing [详细过程及讲解](https://blog.csdn.net/weixin_45508265/article/details/113255859)
+1. [泰坦尼克号生存预测 Titantic](https://blog.csdn.net/weixin_45508265/article/details/112703541)
+2. [波士顿房价预测 Boston Housing](https://blog.csdn.net/weixin_45508265/article/details/113255859)
 3.
 
 许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265?spm=1001.2014.3001.5343),一定不会让你们失望的拉
