@@ -16,9 +16,10 @@ Record every step I take in machine learning
 机器学习实战项目
 1. [泰坦尼克号生存预测 Titantic](https://blog.csdn.net/weixin_45508265/article/details/112703541)
 2. [波士顿房价预测 Boston Housing](https://blog.csdn.net/weixin_45508265/article/details/113255859)
-3.
+3. [预测汽车油耗效率 MPG](https://blog.csdn.net/weixin_45508265/article/details/113577921)
+4.
 
-许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265?spm=1001.2014.3001.5343),一定不会让你们失望的拉
+许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265/category_10742675.html),一定不会让你们失望的拉
 
 
 #### Gitee Feature
