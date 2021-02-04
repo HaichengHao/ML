@@ -17,10 +17,15 @@ Record every step I take in machine learning
 1. [泰坦尼克号生存预测 Titantic](https://blog.csdn.net/weixin_45508265/article/details/112703541)
 2. [波士顿房价预测 Boston Housing](https://blog.csdn.net/weixin_45508265/article/details/113255859)
 3. [预测汽车油耗效率 MPG](https://blog.csdn.net/weixin_45508265/article/details/113577921)
-4.
+4. [机器学习实战四：好事达保险索赔预测 Allstate Claims Severity （xgboost)](https://blog.csdn.net/weixin_45508265/article/details/113601400)
 
 许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265/category_10742675.html),一定不会让你们失望的拉
 
+
+有些数据太大，只能靠百度网盘
+- 百度网盘
+- 链接：[https://pan.baidu.com/s/1U9dteXf56yo3fQ7b9LETsA ](https://pan.baidu.com/s/1U9dteXf56yo3fQ7b9LETsA)
+- 提取码：5odf 
 
 #### Gitee Feature
 
