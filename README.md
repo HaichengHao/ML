@@ -24,10 +24,9 @@ Record every step I take in machine learning
 
 有些数据太大，只能靠百度网盘
 - 百度网盘
-- 链接：[https://pan.baidu.com/s/1U9dteXf56yo3fQ7b9LETsA ](https://pan.baidu.com/s/1U9dteXf56yo3fQ7b9LETsA)
-- 提取码：5odf 
+- 链接：[https://pan.baidu.com/s/1uA5YU06FEW7pW8g9KaHaaw ](https://pan.baidu.com/s/1uA5YU06FEW7pW8g9KaHaaw )
+- 提取码：5605 
 
-#### Gitee Feature
 
 1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
 2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
