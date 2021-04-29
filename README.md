@@ -35,7 +35,7 @@ Record every step I take in machine learning
 
 ---
 
-许多详细的讲解都可以看我的[博客](https://blog.csdn.net/weixin_45508265/category_10742675.html),一定不会让你们失望的拉
+许多详细的讲解都可以看我的[博客的机器学习之路](https://blog.csdn.net/weixin_45508265/article/details/114663239),一定不会让你们失望的拉
 
 
 有些数据太大，只能靠百度网盘
